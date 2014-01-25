@@ -1,0 +1,9 @@
+﻿Plan na wtyczkę do Chroma - aby nauczyć się, jak się pisze wtyczki
+
+Etap 1: Wtyczka ma wyświetlać (w tytule okna) komunikat tekstowy, oraz tytuł zakładki.
+
+Etap 2: Ma w tytule okna wyświetlać (oprócz powyższego) tytuł zakładki pisany od tyłu.
+
+Etap 3: Ma wyświetlać licznik mówiący, jak długo oglądam daną zakładkę.
+
+Etap 4: Ma zapisywać do pliku informację o każdorazowej zmianie zakładki.
