@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "Tab tracker",
+  "description": "This extension follows the currently active tab in the browser and measures the time spent at whaching it.",
+  "version": "0.0.1",
+
+  "background": {
+    "persistent": true,
+	"page":"background.html"
+  }
+}
